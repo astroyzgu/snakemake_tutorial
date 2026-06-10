@@ -1,2 +1,0 @@
-exptype=flat
-r0    2

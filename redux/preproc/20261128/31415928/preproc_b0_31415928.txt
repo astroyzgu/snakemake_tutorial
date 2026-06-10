@@ -1,2 +1,0 @@
-exptype=science
-b0    1

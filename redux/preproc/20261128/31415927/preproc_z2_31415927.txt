@@ -1,2 +1,0 @@
-exptype=flat
-z2    6

@@ -1,2 +1,0 @@
-exptype=science
-r2    5

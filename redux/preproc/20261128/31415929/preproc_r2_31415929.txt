@@ -1,2 +1,0 @@
-exptype=arc
-r2    5
