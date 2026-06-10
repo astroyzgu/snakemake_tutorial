@@ -1,0 +1,2 @@
+exptype=arc
+b0    1

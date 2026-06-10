@@ -1,0 +1,2 @@
+exptype=flat
+r2    5

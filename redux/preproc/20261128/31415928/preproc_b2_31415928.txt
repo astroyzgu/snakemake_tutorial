@@ -1,0 +1,2 @@
+exptype=science
+b2    4

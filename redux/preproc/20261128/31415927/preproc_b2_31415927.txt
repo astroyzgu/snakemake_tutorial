@@ -1,0 +1,2 @@
+exptype=flat
+b2    4

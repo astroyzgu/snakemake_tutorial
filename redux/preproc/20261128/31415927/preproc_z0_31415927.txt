@@ -1,0 +1,2 @@
+exptype=flat
+z0    3

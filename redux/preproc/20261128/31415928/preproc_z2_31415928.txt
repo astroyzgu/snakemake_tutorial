@@ -1,0 +1,2 @@
+exptype=science
+z2    6
