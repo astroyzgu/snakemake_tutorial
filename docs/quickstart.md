@@ -32,4 +32,7 @@ snakemake --dag | dot -Tpng > docs/dag.png
 
 # 生成简化的规则依赖图 (Rulegraph) --- 规则之间的数据流， 比较简洁
 snakemake --rulegraph | dot -Tpdf > docs/rulegraph.pdf
+
+# 生成文件依赖图，并指定目标文件
+snakemake --filegraph | dot -Tpng > filegraph.png
 ```
